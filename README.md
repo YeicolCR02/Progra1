@@ -1,2 +1,2 @@
 # Progra1
-CURSO Introduction a la progradation
+CURSO Introduction a la programsción
